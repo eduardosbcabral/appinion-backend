@@ -1,5 +1,5 @@
 # Appinion - Backend
-Projeto para a matéria de sétimo semestre da faucldade de Ciência da Computação.
+Projeto para a matéria de sétimo semestre da faculdade de Ciência da Computação.
 
 - C#
 - .NET Core
